@@ -7,6 +7,8 @@
   <p>
     <a href="https://www.linkedin.com/in/neeraj-kumar-6406b7332?/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:neerajkumarmaurya248@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="https://youtube.com/@yourchannel" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   </p>
   
   <p><i>Specializing in System Software, Web Architectures, and Cybersecurity Frameworks.</i></p>
